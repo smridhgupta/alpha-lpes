@@ -4,12 +4,12 @@
 
 
 # Usage
-
+```
 gitclone https://github.com/smridhgupta/alpha-lpes.git
 cd alpha-lpes
 chmod +x alpes
 ./alpes
-
+```
 # Disclamer
 
 The developer retains the copyright to the script uploaded on this repository. This script is provided for educational and informational purposes only.
