@@ -15,7 +15,7 @@
 10. Searces for specific files like backup files, web-related files, and hidden files.
 # Usage
 ```
-gitclone https://github.com/smridhgupta/alpha-lpes.git
+git clone https://github.com/smridhgupta/alpha-lpes.git
 cd alpha-lpes
 chmod +x alpes
 ./alpes
